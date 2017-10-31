@@ -5,7 +5,7 @@
 		<model>
 			<livery>
 				<name>erickson studio</name>
-				<texture>Liveries/erickson.png</texture>
+				<texture>Liveries20/erickson.png</texture>
 				<winglets type="bool">true</winglets>
 			</livery>
 		</model>
